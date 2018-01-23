@@ -1,9 +1,7 @@
 # SDVX Song Extractor
 
 MUST USE PYTHON 3
-`pip install bs4 lxml Pillow`
+`pip install -r requirements.txt`
 
-Edit FOLDERS, OUT as desired.
-`py -3 extractor`
-
-Code values functionality over being good.
+Edit FOLDERS, OUT in `extractor.py` as desired. Afterwards:  
+`py -3 extractor.py`
